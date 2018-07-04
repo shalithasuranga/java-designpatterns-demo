@@ -1,0 +1,5 @@
+designpatterns.Singleton.SingletonLazy
+designpatterns.Singleton.SingletonStatic
+designpatterns.Singleton.SingletonThreadsafe
+designpatterns.Singleton.Singleton
+designpatterns.Singleton.SingletonEager
